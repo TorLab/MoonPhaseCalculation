@@ -18,4 +18,5 @@ part of the moon while a pixel OFF matches the illuminated face. If you are usin
 you should then invert pixels in the Bitmaps.
 
 # Breadboard Circuit
+[](MoonPhaseCalculation/images/)
 
