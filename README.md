@@ -17,3 +17,5 @@ Please note that the Bitmaps are for a black/white screen, so a pixel ON would m
 part of the moon while a pixel OFF matches the illuminated face. If you are using an OLED display, 
 you should then invert pixels in the Bitmaps.
 
+# Breadboard Circuit
+
