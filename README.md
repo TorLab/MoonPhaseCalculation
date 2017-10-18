@@ -19,3 +19,4 @@ you should then invert pixels in the Bitmaps.
 
 # Breadboard Circuit
 
+![](images/breadboard%20circuit.jpg)
